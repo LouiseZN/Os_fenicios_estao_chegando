@@ -27,4 +27,16 @@ A missão é descobrir **rotas otimizadas** entre portos, usando diferentes estr
 - 🔍 **Busca em Largura (BFS)**  
 - 📐 **Dijkstra (menor caminho)**  
 - 💥 **A\* (A estrela)**  
-- 🧠 **Compara.ipynb** → Comparação entre algoritmos em diferentes casos  
+- 🧠 **Compara.ipynb** → Comparação entre algoritmos em diferentes casos
+
+---
+
+## 📁 Estrutura do Repositório
+
+- case*.map # Arquivos de mapas com diferentes cenários
+- Grafos2.py # Lógica dos grafos e funções principais
+- Grafo_Mahatam.ipynb # Análise específica do mapa Mahatam
+- Compara.ipynb # Comparações entre algoritmos
+- Caminho.gif # Demonstração visual do caminho
+- casosDeTeste.zip # Casos de teste adicionais
+- README.md # Este arquivo
